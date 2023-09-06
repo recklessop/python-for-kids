@@ -8,7 +8,7 @@ Jupyter Notebook based lessons to teach my kids Python
 To get started Navigate to a lesson in the lesson folder and select the lesson-xx.ipynb file. Then at the top of the page click the Open in Colab badge.
 
 If you are new, and want to start at the beginning you can click here:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/recklessop/python-for-kids/blob/main/lessons/lesson-02/lesson-02.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/recklessop/python-for-kids/blob/main/lessons/lesson-00/lesson-00.ipynb)
 
 ## Why I am creating this
 
