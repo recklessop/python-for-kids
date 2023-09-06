@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the main purpose of the Python print() function?",
+        "choices": [
+            "To calculate mathematical operations", 
+            "To display text and information on the screen", 
+            "To control the flow of a Python program",
+            "To create graphics and drawings"
+        ],
+        "answer": "To display text and information on the screen"
+    },
+    {
+        "question": "Which of the following is NOT a reason why Python is popular among programmers?",
+        "choices": [
+            "Readability of Python code", 
+            "Versatility (ability to do many things)", 
+            "Small and inactive community",
+            "Availability of helpful libraries and tools"
+        ],
+        "answer": "Small and inactive community"
+    }
+]
