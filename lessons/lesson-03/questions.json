@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What Python function is used to capture user input?",
+        "choices": [
+            "print()",
+            "input()",
+            "get_input()",
+            "user_input()"
+        ],
+        "answer": "B) input()"
+    },
+    {
+        "question": "How can you display a message to the user in Python?",
+        "choices": [
+            "show()",
+            disp"lay()",
+            "print()",
+            "message()"
+        ],
+        "answer": "C) print()"
+    },
+    {
+        "question": "Write a Python program that asks for the user's age and prints it.",
+        "choices": [
+            "age = get_age()",
+            "input('Enter your age: ')",
+            "print('Your age: ' + age)",
+            "age = input('Enter your age: ')"
+        ],
+        "answer": "D) age = input('Enter your age: ')"
+    },
+    {
+        "question": "What is the main purpose of the 'input()' function in Python?",
+        "choices": [
+            "To display messages to the user",
+            "To perform mathematical calculations",
+            "To capture user input",
+            "To create loops"
+        ],
+        "answer": "C) To capture user input"
+    },
+    {
+        "question": "How can you improve the user experience in your programs by using user-friendly messages?",
+        "choices": [
+            "By making the messages longer",
+            "By using fancy fonts",
+            "By displaying errors",
+            "By using clear and friendly messages"
+        ],
+        "answer": "D) By using clear and friendly messages"
+    }
+]
