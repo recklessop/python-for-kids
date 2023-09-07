@@ -22,8 +22,8 @@
     {
         "question": "Which operator is used for multiplication in Python?",
         "choices": [
-            "+", 
-            "-", 
+            "\+", 
+            "\-", 
             "*",
             "/"
         ],
