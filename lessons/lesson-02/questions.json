@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is a variable in programming?",
+        "choices": [
+            "A fixed value that cannot be changed", 
+            "A data type", 
+            "A container for storing data that can vary",
+            "A mathematical equation"
+        ],
+        "answer": "A container for storing data that can vary"
+    },
+    {
+        "question": "Which of the following is NOT a data type in Python?",
+        "choices": [
+            "Integer", 
+            "String", 
+            "Float",
+            "Loop"
+        ],
+        "answer": "Loop"
+    },
+    {
+        "question": "Which operator is used for multiplication in Python?",
+        "choices": [
+            "+", 
+            "-", 
+            "*",
+            "/"
+        ],
+        "answer": "*"
+    },
+    {
+        "question": "Which of the following is the correct way to declare a variable in Python to store an integer value?",
+        "choices": [
+            "variable = 'Hello'", 
+            "variable = 3.14", 
+            "variable = 42",
+            "variable = True"
+        ],
+        "answer": "variable = 42"
+    },
+]
