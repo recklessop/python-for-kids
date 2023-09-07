@@ -20,7 +20,7 @@
         "answer": "print()"
     },
     {
-        "question": "Write a Python program that asks for the user's age and prints it.",
+        "question": "Which line of code asks for the user's age and stores it in a variable?",
         "choices": [
             "age = get_age()",
             "input('Enter your age: ')",
