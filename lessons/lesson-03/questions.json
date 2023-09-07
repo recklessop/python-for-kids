@@ -13,7 +13,7 @@
         "question": "How can you display a message to the user in Python?",
         "choices": [
             "show()",
-            disp"lay()",
+            "display()",
             "print()",
             "message()"
         ],
