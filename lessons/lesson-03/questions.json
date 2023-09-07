@@ -7,7 +7,7 @@
             "get_input()",
             "user_input()"
         ],
-        "answer": "B) input()"
+        "answer": "input()"
     },
     {
         "question": "How can you display a message to the user in Python?",
@@ -17,7 +17,7 @@
             "print()",
             "message()"
         ],
-        "answer": "C) print()"
+        "answer": "print()"
     },
     {
         "question": "Write a Python program that asks for the user's age and prints it.",
@@ -27,7 +27,7 @@
             "print('Your age: ' + age)",
             "age = input('Enter your age: ')"
         ],
-        "answer": "D) age = input('Enter your age: ')"
+        "answer": "age = input('Enter your age: ')"
     },
     {
         "question": "What is the main purpose of the 'input()' function in Python?",
@@ -37,7 +37,7 @@
             "To capture user input",
             "To create loops"
         ],
-        "answer": "C) To capture user input"
+        "answer": "To capture user input"
     },
     {
         "question": "How can you improve the user experience in your programs by using user-friendly messages?",
@@ -47,6 +47,6 @@
             "By displaying errors",
             "By using clear and friendly messages"
         ],
-        "answer": "D) By using clear and friendly messages"
+        "answer": "By using clear and friendly messages"
     }
 ]
