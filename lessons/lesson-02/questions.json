@@ -20,16 +20,6 @@
         "answer": "Loop"
     },
     {
-        "question": "Which operator is used for multiplication in Python?",
-        "choices": [
-            "+", 
-            "-", 
-            "*",
-            "/"
-        ],
-        "answer": "*"
-    },
-    {
         "question": "Which of the following is the correct way to declare a variable in Python to store an integer value?",
         "choices": [
             "variable = 'Hello'", 
